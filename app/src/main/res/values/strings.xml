@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">websocket-example</string>
+
+    <string name="event">Events</string>
+    <string name="chat">Chat</string>
+    <string name="message_hint">Message</string>
+
+    <string name="user_connected"><b>%1$s</b> connected</string>
+
+    <string name="event_name"><b>event -></b> %1$s</string>
+    <string name="event_time"><b>time -></b> %1$s</string>
+    <string name="event_message"><b>data -></b> %1$s</string>
+
+</resources>
